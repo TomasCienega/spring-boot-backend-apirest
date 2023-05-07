@@ -1,0 +1,10 @@
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Zoro','Roronoa','emailejemplo1@gmail.com','2023-01-01');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Luffy','Monkey D','emailejemplo2@gmail.com','2023-01-02');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Robin','Nico','emailejemplo@gmail.com','2023-01-03');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Usopp','God','emailejemplo@gmail.com','2023-01-04');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Sanji','Kuroashi','emailejemplo@gmail.com','2023-01-05');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Chopper','Tony Tony','emailejemplo@gmail.com','2023-01-06');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Franky','Suprrrrr','emailejemplo@gmail.com','2023-01-07');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Jimbei','SeaSon','emailejemplo@gmail.com','2023-01-08');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Nami','Mami','emailejemplo@gmail.com','2023-01-09');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Brook','Star','emailejemplo@gmail.com','2023-01-10');
